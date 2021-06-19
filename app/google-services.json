@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "641957888277",
+    "firebase_url": "https://covid-19-bihar-a90ad.firebaseio.com",
+    "project_id": "covid-19-bihar-a90ad",
+    "storage_bucket": "covid-19-bihar-a90ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641957888277:android:97c371d6ffa11f9c88291c",
+        "android_client_info": {
+          "package_name": "com.amar.covid19bihar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641957888277-v8kpa74kkt9u1dnmsduv526kbacskj94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amar.covid19bihar",
+            "certificate_hash": "d48f7fe48ba236f02a56e46cd5790f47f3c775c7"
+          }
+        },
+        {
+          "client_id": "641957888277-2pjl26pqjetnkg6okrhgl2lphacg2aop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC62-8_1Oetkh2GxnjsD9032FQ0ky0rsbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641957888277-2pjl26pqjetnkg6okrhgl2lphacg2aop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
